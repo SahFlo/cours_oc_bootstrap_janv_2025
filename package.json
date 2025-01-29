@@ -1,0 +1,15 @@
+{
+  "name": "cours_oc_bootstrap_janv_2025",
+  "version": "1.0.0",
+  "description": "*A ce stade de ma formation, je n'ai encore jamais utilisé de framework.\r Il n'y a pas de cours, je suis 100% autonome pour réaliser un exercice individuelel nécessitant l'usage de Boostrap. Je choisis donc de démarrer par ce cours d'OpencClassrooms*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
